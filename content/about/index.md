@@ -6,4 +6,4 @@ eleventyNavigation:
 ---
 # About Me
 
-I am a person who changes stuff.
+I am a person that writes stuff.
