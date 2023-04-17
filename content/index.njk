@@ -5,12 +5,11 @@ eleventyNavigation:
   order: 1
 numberOfLatestPostsToShow: 
 ---
-<h1>Latest Posts</h1>
 
+<h1>Latest  Posts</h1>
 
-
-{# List every content page in the project #}
-{#
+{ List every content page in the project }
+{
 <ul>
 	{%- for entry in collections.all %}
 	<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
