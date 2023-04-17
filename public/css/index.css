@@ -38,7 +38,7 @@
 
 /* Global stylesheet */
 * {
-	box-sizing:none;
+	box-sizing: border-box;
 }
 
 html,
