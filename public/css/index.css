@@ -6,14 +6,14 @@
 
 /* Theme colors */
 :root {
-	--color-gray-20: #e0e0e0;
-	--color-gray-50: #C0C0C0;
-	--color-gray-90: #ffffff;
+	--color-gray-20: #0b6320;
+	--color-gray-50: #0f5d1b;
+	--color-gray-90: #7a0606;
 
 	--background-color: #fff;
 
 	--text-color: var(--color-gray-90);
-	--text-color-link: #082840;
+	--text-color-link: #400811;
 	--text-color-link-active: #5f2b48;
 	--text-color-link-visited: #17050F;
 
@@ -38,7 +38,7 @@
 
 /* Global stylesheet */
 * {
-	box-sizing: none;
+	box-sizing: screen;
 }
 
 html,
