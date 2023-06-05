@@ -9,7 +9,7 @@
 	--color-gray-20: #0b6320;
 	--color-gray-50: #0f5d1b;
 	--color-gray-90: #7a0606;
-
+	--background-image: href"https://images.nightcafe.studio/jobs/iFkZsvIlcorqzJdv2xBr/iFkZsvIlcorqzJdv2xBr--1--oupeh_4x.jpg?tr=w-1600,c-at_max";
 	--background-color: #fff;
 
 	--text-color: var(--color-gray-90);
@@ -27,6 +27,7 @@
 		/* --text-color is assigned to --color-gray-_ above */
 		--text-color-link: #1493fb;
 		--text-color-link-active: #6969f7;
+		--background-image: href"https://images.nightcafe.studio/jobs/iFkZsvIlcorqzJdv2xBr/iFkZsvIlcorqzJdv2xBr--1--oupeh_4x.jpg?tr=w-1600,c-at_max";
 		--background-color: #ffffff;
 	}
 }
