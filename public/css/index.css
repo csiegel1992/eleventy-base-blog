@@ -20,9 +20,9 @@
 
 @media (prefers-color-scheme: dark) {
 	:root {
-		--color-gray-20: #e0e0e0;
-		--color-gray-50: #C0C0C0;
-		--color-gray-90: #dad8d8;
+		--color-gray-20: #1493fb;
+		--color-gray-50: #1493fb;
+		--color-gray-90: #1493fb;
 
 		/* --text-color is assigned to --color-gray-_ above */
 		--text-color-link: #1493fb;
