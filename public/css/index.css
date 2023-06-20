@@ -53,8 +53,8 @@ html {
 	
 }
 body {
-	max-width: 40em;
-	padding-top: 200px;
+	max-width: 50em;
+	padding-top: 50px;
 	border-spacing:  40em;
 	font-family: system-ui;
 	background-color: var(--background-color);
