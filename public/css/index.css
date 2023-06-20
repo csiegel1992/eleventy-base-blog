@@ -42,7 +42,7 @@ html,
 body {
 	padding: 0;
 	margin: 0 auto;
-	background-image: href"https://images.nightcafe.studio/jobs/iFkZsvIlcorqzJdv2xBr/iFkZsvIlcorqzJdv2xBr--1--oupeh_4x.jpg?tr=w-1600,c-at_max";
+	background-image: url("https://images.nightcafe.studio/jobs/iFkZsvIlcorqzJdv2xBr/iFkZsvIlcorqzJdv2xBr--1--oupeh_4x.jpg?tr=w-1600,c-at_max");
 	font-family: var(--font-family);
 	color: var(--text-color);
 	background-color: var(--background-color);
