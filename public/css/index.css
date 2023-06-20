@@ -53,7 +53,9 @@ html {
 	
 }
 body {
-	max-width: auto;
+	padding-top: 200px;
+	padding-bottom: 200px;
+	font-family: system-ui;
 	background-color: var(--background-color);
 	background-image: none;
 }
