@@ -49,6 +49,8 @@ body {
 }
 html {
 	overflow-y: scroll;
+	background-color: var(--background-color);
+	background-image: none;
 }
 body {
 	max-width: 40em;
