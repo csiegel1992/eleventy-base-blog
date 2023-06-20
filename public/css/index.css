@@ -49,11 +49,12 @@ body {
 }
 html {
 	overflow-y: scroll;
-	background-color: var(--background-color);
-	background-image: none;
+	
 }
 body {
 	max-width: 40em;
+	background-color: var(--background-color);
+	background-image: none;
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
