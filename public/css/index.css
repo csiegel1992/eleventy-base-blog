@@ -53,7 +53,7 @@ html {
 	
 }
 body {
-	max-width: fit-content;
+	max-width: 40cm;
 	padding-top: 200px;
 	padding-bottom: 200px;
 	font-family: system-ui;
