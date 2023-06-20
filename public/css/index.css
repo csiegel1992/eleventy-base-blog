@@ -53,7 +53,7 @@ html {
 	
 }
 body {
-	max-width: 40em;
+	max-width: auto;
 	background-color: var(--background-color);
 	background-image: none;
 }
