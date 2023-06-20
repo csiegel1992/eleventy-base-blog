@@ -55,7 +55,7 @@ html {
 body {
 	max-width: 40em;
 	padding-top: 200px;
-	padding-bottom: 200px;
+	border-radius: 40em;
 	font-family: system-ui;
 	background-color: var(--background-color);
 	background-image: none;
