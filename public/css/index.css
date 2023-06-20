@@ -35,13 +35,13 @@
 
 /* Global stylesheet */
 * {
-	box-sizing: border-box;
+	box-sizing: auto;
 }
 
 html,
 body {
 	padding: 0;
-	margin: 0 auto;
+	margin: 0 ;
 	background-image: url("https://images.nightcafe.studio/jobs/iFkZsvIlcorqzJdv2xBr/iFkZsvIlcorqzJdv2xBr--1--oupeh_4x.jpg?tr=w-1600,c-at_max");
 	font-family: var(--font-family);
 	color: var(--text-color);
