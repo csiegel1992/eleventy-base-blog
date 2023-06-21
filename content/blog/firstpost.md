@@ -44,11 +44,25 @@ JavaScript supports various data types, including:
 JavaScript also provides a wide range of operators for performing mathematical, logical, and comparison operations.
 
 Tasks:
-Here are some tasks we completeted to practice JavaScript:
+Here here is the task we completeted to practice JavaScript:
 
-1. Create a JavaScript file and link it to an HTML document.
-2. Use `console.log()` to output a message to the browser console.
-3. Use `alert()` to display a pop-up notification to the user.
-4. Declare variables
+Make a program to calculate a tip
 
-Please find a link to the tasks completed in my codepen <a href="https://codepen.io/C-siegel31/pen/ExdLONX?editors=0012">here</a>.
+1. Create variables for the pre-tip total and the tip percentage
+2. Calculate the new total
+3. Output a sentence to the page - something like:
+4. Your total bill, with tip, is £35.45
+
+BONUS POINTS:
+
+Use toFixed() to round the output to 2 decimal places
+Display the tip amount in the output as well
+2 Extend the Tip program
+
+Create variables for the pre-tip total and the tip percentage
+Calculate the new total
+Output a sentence to the page - something like:
+“Your total bill, with tip, is £35.45”
+
+
+Please find a link to the tasks completed in my codepen <a href="https://codepen.io/C-siegel31/pen/bGmWQdO?editors=1101">here</a>.
