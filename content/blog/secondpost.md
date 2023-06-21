@@ -28,8 +28,8 @@ Functions can also provide a return value that can be used later in the code. Th
 #### Variable Scope: Understanding Accessibility
 The scope of a variable determines where its value is accessible in the program. JavaScript distinguishes between global scope and local scope.
 
-#### Global Scope: Variables declared outside of any function have a global scope and can be accessed from anywhere in the code.
-Local Scope: Variables declared within a function have a local scope and are only accessible within that specific function.
+ Global Scope: Variables declared outside of any function have a global scope and can be accessed from anywhere in the code.
+ Local Scope: Variables declared within a function have a local scope and are only accessible within that specific function.
 
 #### Control Flow: Making Decisions with Conditional Statements
 JavaScript provides conditional statements that allow you to control the flow of your code based on specific conditions. One commonly used conditional statement is the if statement.
