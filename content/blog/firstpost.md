@@ -70,4 +70,4 @@ Output a sentence to the page - something like:
 “Your total bill, with tip, is £35.45”
 
 
-##### Please find a link to the tasks completed in my codepen <a href="https://codepen.io/C-siegel31/pen/bGmWQdO?editors=1101">here</a>.ß
+###### Please find a link to the tasks completed in my codepen <a href="https://codepen.io/C-siegel31/pen/bGmWQdO?editors=1101">here</a>.
