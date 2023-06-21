@@ -8,6 +8,7 @@ tags:
 
 ---
  
+ 
 In this session, we explored the concept of functions, how to declare and use them, and dive into variable scope and control flow. These are fundamental concepts that allow me to write efficient and reusable code.
 
 Functions: Reusable Blocks of Code
