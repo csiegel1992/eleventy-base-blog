@@ -3,7 +3,11 @@ title: Programming Concepts
 description: A Beginner's Guide to JavaScript -  Unlocking the Power of Web Development
 date: 2023-06-01
 tags:
-  - another tag
+  - Event Handling
+  - Output Methods
+  - Variable
+  - Data Types 
+  - Operators
 ---
 
 JavaScript, often abbreviated as JS, is a versatile programming language that plays a crucial role in modern web development. It empowers developers to add dynamic and interactive features to websites, enhancing user experiences. In this blog post, we will cover the fundamentals of JavaScript we learned in the session, its applications, and how it can be applied to websites. We will cover output methods, variables, data types, operators, and go over tasks that helped me strengthen my understanding.
