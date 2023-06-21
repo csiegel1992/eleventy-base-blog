@@ -97,7 +97,7 @@ Console.log the returned message
 
 ##### Task 3 - Calculator
 
-We need to create a function capable of using the addition, subtraction, multiply, divider or modulus operator on 2 numbers provided.
+Create a function capable of using the addition, subtraction, multiply, divider or modulus operator on 2 numbers provided.
 
 
 Create a function named calculator
