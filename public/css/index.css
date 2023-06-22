@@ -42,7 +42,6 @@ html,
 body {
 	padding: 50px;
 	margin: auto ;
-	max-height: 100em;
 	background-image: url("https://images.nightcafe.studio/jobs/iFkZsvIlcorqzJdv2xBr/iFkZsvIlcorqzJdv2xBr--1--oupeh_4x.jpg?tr=w-1600,c-at_max");
 	background-size: cover;
 	font-family: var(--font-family);
