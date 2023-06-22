@@ -14,10 +14,10 @@ Loops, arrays, and objects are essential concepts that allow developers to work 
 #### While Loops:
 While loops are a fundamental construct in programming that repeatedly executes a block of code until a specific condition is met. By checking the condition at the beginning of each iteration, while loops provide flexibility in controlling program flow. However, it's crucial to ensure that the condition eventually becomes false; otherwise, an infinite loop can occur. Remember, in while loops, you must make sure something changes to prevent them from running indefinitely.
 
-#### For Loops:
+#### For Loops:
 Similar to while loops, for loops allow you to repeat a block of code. However, for loops introduce a counter that is declared in the loop statement. This counter allows tracking the number of iterations, making it easier to work with arrays and perform specific tasks a set number of times. By specifying the starting point, ending condition, and increment or decrement value, for loops offer control over repetitive operations.
 
-#### Loops and Logic:
+#### Loops and Logic:
 Loops become even more powerful when combined with conditional statements and logical operators. Within the loop's block of code, you can incorporate if statements, comparisons, and logical operators to perform different actions based on specific conditions. This flexibility allows you to create dynamic and adaptable code that responds to varying scenarios.
 
 #### Break Statement:
@@ -46,16 +46,15 @@ Objects can hold not only properties but also functions, which are commonly refe
 
 #### Task:
 
+
 ##### Task 1
 
 Write a loop that outputs the 7 times table,
-
 from 7 x 1 = 7 to 7 x 12 = 84
 
 ##### Task 2
 
 Create an array of your favourite foods.
-
 Print some of them to the screen
 
 ##### Task 3
@@ -65,15 +64,12 @@ Use a for loop to print a list of all your favourite foods
 ##### Task 4
 
 Create an object to hold information on your favourite recipe. Then display the properties on screen.
-
 Bonus Points: Create a loop to list all the ingredients and directions.
 
 ##### Task 5
 
 Add a function called letsCook
-
 Have it say: "I'm hungry! Let's cook..." with the name of your recipe title.
-
 Call your new method.
 
 ###### Please find a link to the tasks completed in my codepen <a href="https://codepen.io/C-siegel31/pen/eYPMrBQ?editors=1111">here</a>.
