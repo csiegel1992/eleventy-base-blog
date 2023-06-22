@@ -54,7 +54,7 @@ html {
 }
 body {
 	max-width: 55em;
-	max-height: 150em;
+	max-height: auto;
 	padding-top: 50px;
 	border-spacing:  40em;
 	font-family: system-ui;
